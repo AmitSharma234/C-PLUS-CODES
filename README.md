@@ -64,4 +64,3 @@ This repository is designed for **students, beginners, and intermediate develope
 - Namespaces
 - Templates
 - `const`, `static`, `mutable`
-- Modern C++ overview

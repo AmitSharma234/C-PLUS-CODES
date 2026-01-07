@@ -62,5 +62,4 @@ This repository is designed for **students, beginners, and intermediate develope
 - File Handling
 - Exception Handling
 - Namespaces
-- Templates
 - `const`, `static`, `mutable`

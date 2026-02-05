@@ -20,7 +20,7 @@ This repository is designed for **students, beginners, and intermediate develope
 ### 🔹 Basics
 - Introduction to C++
 - Variables and Data Types
-- Input / Output (`cin`, `cout`)
+- Input / Output (`cin`, )
 - Operators
 - Conditional Statements
 - Loops (`for`, `while`, `do-while`)
